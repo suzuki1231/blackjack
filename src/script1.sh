@@ -1,17 +1,5 @@
 #!/bin/bash
 
-Playerの先攻
-
-Playerのターン
-----------
-2 sum:2
-カードを引きますか?(d/p):^C
-Afami-MacBook-Pro:src h.takahashi$ ll
-total 16
--rwxrwxrwx@ 1 h.takahashi  staff  5064  9 20 12:51 main.sh
-Afami-MacBook-Pro:src h.takahashi$ cat main.sh
-#!/bin/bash
-
 # Playerの引いたカード（配列）
 pCards=();
 
